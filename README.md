@@ -1,7 +1,10 @@
 # SystemRestauracjiklientserver_v5_JAVA
 Semester student project of Programming advanced JAVA applications course.
+
 Login requirements:
+
 Code: admin
+
 Functionality:
 The server part of the project deals with data models, i.e. receiving inquiries from
 customers, processing, analyzing, creating and communicating with data files.
