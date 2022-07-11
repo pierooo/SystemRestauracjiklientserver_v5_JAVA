@@ -16,11 +16,11 @@ objects, and communicates with the server part by sending queries and receiving 
 
 Implementation:
 - Classes of data models, communication, client / server system, sessions, windows, panels
--Inheritance: the entire system is based on generic support for object models
--Window interface in Swing (client part)
--Handling of exceptions
--Event handling
--ArrayList <>, HashMap <>
--Reading and writing from / to files (server part - KomunikacjaObiektyPliki class)
+- Inheritance: the entire system is based on generic support for object models
+- Window interface in Swing (client part)
+- Handling of exceptions
+- Event handling
+- ArrayList <>, HashMap <>
+- Reading and writing from / to files (server part - KomunikacjaObiektyPliki class)
 - Threads
--The client-server model
+- The client-server model
